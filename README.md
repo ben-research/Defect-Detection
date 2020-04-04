@@ -1,2 +1,2 @@
 # Defect-Detection
-Defect-Detection in chips using Image Denoising
+Defect-Detection in chips using Image Cleaning
